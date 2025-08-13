@@ -132,6 +132,7 @@ public class AppManager_WS : MonoBehaviour
         m_imageBytes = m_cameraRecordingController.CapturePhotoAsByteArray();
         // Start recording audio
         m_webSocketController.StartRecording();
+        m_displayContent.Clear();
         OnTextUpdated?.Invoke("");
         m_isRecordingPressing = true;
     }
