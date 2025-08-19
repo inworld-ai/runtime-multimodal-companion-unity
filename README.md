@@ -1,4 +1,4 @@
-<h1 align="center">Inworld Runtime App Template - Multimodal Companion (Unity Client)</h1>
+# Inworld Runtime App Template - Multimodal Companion (Unity Client)
 
 <p align="center"> 
     <a href="https://docs.inworld.ai/docs/introduction"><strong>Build with Inworld</strong></a> · 
@@ -6,9 +6,9 @@
     <a href="https://github.com/inworld-ai/runtime-multimodal-companion-node"><strong>Node.js Server Repo</strong></a>
 </p> 
 
-<p align="center">
+
 The Real-time Multimodal Companion Template demonstrates how to build an AI companion that combines speech-to-text, image understanding, and text-to-speech using WebSocket communication. This Unity project works with a <a href="https://github.com/inworld-ai/runtime-multimodal-companion-node"><strong>Node.js server</strong></a> to deliver a complete, real-time interactive experience.
-</p>
+
 
 ## How to use
 
@@ -30,3 +30,8 @@ The Real-time Multimodal Companion Template demonstrates how to build an AI comp
 - Switch the platform to **Android**.
 - Add `DemoScene_WebSocket` to the build scenes.
 - Click **Build and Run** to deploy the APK to your Android device.
+
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
